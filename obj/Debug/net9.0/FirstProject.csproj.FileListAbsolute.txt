@@ -17,3 +17,4 @@
 /home/hkuser/MyProjects/FirstProject/bin/Debug/net9.0/FirstProject.runtimeconfig.json
 /home/hkuser/MyProjects/FirstProject/bin/Debug/net9.0/FirstProject.dll
 /home/hkuser/MyProjects/FirstProject/bin/Debug/net9.0/FirstProject.pdb
+/home/hkuser/MyProjects/FirstProject/obj/Debug/net9.0/FirstProject.sourcelink.json
