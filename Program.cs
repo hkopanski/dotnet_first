@@ -29,9 +29,9 @@ namespace MyFirstProject
 
             int evenNumCount = evenNumQuery.Count();
             foreach (int num in evenNumQuery)
-{
-    Console.WriteLine("{0,1} ", num);
-}
+                {
+                    Console.WriteLine("{0,1} ", num);
+                }
             Console.WriteLine($"There are {evenNumCount} even numbers");
 
     }
